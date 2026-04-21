@@ -1,0 +1,6 @@
+{
+  "name": "CSV Fusion",
+  "description": "Una herramienta potente para unir múltiples archivos CSV en uno solo, con opción de eliminar duplicados sin perder ni un solo dato.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
