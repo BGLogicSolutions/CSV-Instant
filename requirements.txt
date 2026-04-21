@@ -1,0 +1,5 @@
+papaparse
+(@types/papaparse)
+movimiento del enmarcador
+movimiento
+lucide-react
